@@ -19,6 +19,7 @@ My Software Features:
 15. regular (report)
 
 It also contains many other things like:
+
 🔰 You will get the benefit of offline or online usage.
 🔰 Can record countless supplier and customer details.
 🔰 Can be used on any device. Eg: Computer, Laptop, Tab, Mobile.
