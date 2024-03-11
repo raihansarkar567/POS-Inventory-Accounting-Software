@@ -65,4 +65,10 @@ It also contains many other things like:
 🔰 You can track all activities including purchases and sales of your store via mobile wherever you are.
 
 
+# Few software preview, Image abd Screenshots are given below-
 
+![Image Alt text]([/images/img.jpg](https://github.com/raihansarkar567/POS-Inventory-Accounting-Software/blob/main/1.png?raw=true)https://github.com/raihansarkar567/POS-Inventory-Accounting-Software/blob/main/1.png?raw=true "POS Interface"))
+
+![Image Alt text]([/images/img.jpg]([https://github.com/raihansarkar567/POS-Inventory-Accounting-Software/blob/main/1.png?raw=true)https://github.com/raihansarkar567/POS-Inventory-Accounting-Software/blob/main/1.png?raw=true](https://github.com/raihansarkar567/POS-Inventory-Accounting-Software/blob/main/2.png?raw=true)https://github.com/raihansarkar567/POS-Inventory-Accounting-Software/blob/main/2.png?raw=true "Dashboard"))
+
+![Image Alt text]([[/images/img.jpg](https://github.com/raihansarkar567/POS-Inventory-Accounting-Software/blob/main/1.png?raw=true)https://github.com/raihansarkar567/POS-Inventory-Accounting-Software/blob/main/1.png?raw=true](https://github.com/raihansarkar567/POS-Inventory-Accounting-Software/blob/main/3.png?raw=true)https://github.com/raihansarkar567/POS-Inventory-Accounting-Software/blob/main/3.png?raw=true "POS Interface"))
