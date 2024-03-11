@@ -67,7 +67,7 @@ It also contains many other things like:
 
 # Few software preview, Image abd Screenshots are given below-
 
-![Image Alt text]([/images/img.jpg](https://github.com/raihansarkar567/POS-Inventory-Accounting-Software/blob/main/1.png?raw=true)https://github.com/raihansarkar567/POS-Inventory-Accounting-Software/blob/main/1.png?raw=true "POS Interface"))
+![Image Alt text](https://raw.githubusercontent.com/raihansarkar567/POS-Inventory-Accounting-Software/main/1.png "POS Interface"))
 
 ![Image Alt text]([/images/img.jpg]([https://github.com/raihansarkar567/POS-Inventory-Accounting-Software/blob/main/1.png?raw=true)https://github.com/raihansarkar567/POS-Inventory-Accounting-Software/blob/main/1.png?raw=true](https://github.com/raihansarkar567/POS-Inventory-Accounting-Software/blob/main/2.png?raw=true)https://github.com/raihansarkar567/POS-Inventory-Accounting-Software/blob/main/2.png?raw=true "Dashboard"))
 
