@@ -21,24 +21,48 @@ My Software Features:
 It also contains many other things like:
 
 🔰 You will get the benefit of offline or online usage.
+
 🔰 Can record countless supplier and customer details.
+
 🔰 Can be used on any device. Eg: Computer, Laptop, Tab, Mobile.
+
 🔰 You can add countless products.
+
 🔰 You will get the benefit of barcode creation and printing as per the product requirement.
+
 🔰 Get the benefit of sales registration and inventory management with barcode scanner.
+
 🔰 You can see the daily, weekly and monthly purchase and sale account.
+
 🔰 Get daily stock calculation.
+
 🔰 Daily/monthly/yearly sales accounting facility will be available.
+
 🔰 You will get the benefit of product sale at a discount.
+
 🔰 Can maintain and print customer and supplier ledgers.
+
 🔰 You will get the benefit of printing and customizing countless invoices and money receipts.
+
 🔰 You will get the benefit of sales and purchases report management.
+
 🔰 You will get benefit of profit, loss calculation and information management.
+
 🔰 Any report can be downloaded in Excel, PDF.
+
 🔰 You can download the backup of your own data.
+
 🔰 With the facility to customize reports and features to your liking, there are many more features!
+
 🔰 You can send messages after buying and selling and any transaction.
+
 🔰 Customers and suppliers can track their balance, current balance and accounting.
+
 🔰 You can calculate and manage the attendance, salary, loan etc. of the shop staff.
+
 🔰 Give role-based access and permissions to your store/business employees.
+
 🔰 You can track all activities including purchases and sales of your store via mobile wherever you are.
+
+
+
