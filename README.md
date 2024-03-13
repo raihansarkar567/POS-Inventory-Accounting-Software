@@ -67,19 +67,19 @@ It also contains many other things like:
 
 # Few software preview, Image abd Screenshots are given below-
 
-![Image Alt text](https://raw.githubusercontent.com/raihansarkar567/POS-Inventory-Accounting-Software/main/1.png "POS Interface"))
+![Image Alt text](https://raw.githubusercontent.com/raihansarkar567/POS-Inventory-Accounting-Software/main/1.png "POS Interface")
 
-![Image Alt text](https://raw.githubusercontent.com/raihansarkar567/POS-Inventory-Accounting-Software/main/2.png "POS Interface"))
+![Image Alt text](https://raw.githubusercontent.com/raihansarkar567/POS-Inventory-Accounting-Software/main/2.png "POS Interface")
 
-![Image Alt text](https://raw.githubusercontent.com/raihansarkar567/POS-Inventory-Accounting-Software/main/3.png "POS Interface"))
+![Image Alt text](https://raw.githubusercontent.com/raihansarkar567/POS-Inventory-Accounting-Software/main/3.png "POS Interface")
 
-![Image Alt text](https://raw.githubusercontent.com/raihansarkar567/POS-Inventory-Accounting-Software/main/4.png "POS Interface"))
+![Image Alt text](https://raw.githubusercontent.com/raihansarkar567/POS-Inventory-Accounting-Software/main/4.png "POS Interface")
 
-![Image Alt text](https://raw.githubusercontent.com/raihansarkar567/POS-Inventory-Accounting-Software/main/5.png "POS Interface"))
+![Image Alt text](https://raw.githubusercontent.com/raihansarkar567/POS-Inventory-Accounting-Software/main/5.png "POS Interface")
 
-![Image Alt text](https://raw.githubusercontent.com/raihansarkar567/POS-Inventory-Accounting-Software/main/6.png "POS Interface"))
+![Image Alt text](https://raw.githubusercontent.com/raihansarkar567/POS-Inventory-Accounting-Software/main/6.png "POS Interface")
 
-![Image Alt text](https://raw.githubusercontent.com/raihansarkar567/POS-Inventory-Accounting-Software/main/7.png "POS Interface"))
+![Image Alt text](https://raw.githubusercontent.com/raihansarkar567/POS-Inventory-Accounting-Software/main/7.png "POS Interface")
 
 ![Image Alt text](https://raw.githubusercontent.com/raihansarkar567/POS-Inventory-Accounting-Software/main/8.png "POS Interface"))
 
